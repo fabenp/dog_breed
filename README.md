@@ -19,7 +19,8 @@ numpy, pandas, nltk, sklearn, flask, json, c2, sqlite3, tqdm, glob
 - haarcascade_frontalface_alt: contains the pre-trained face detector data
 - weights.best.Resnet50.hdf5: Once the model trained with resnet50 the best model weights are saved to this file
 
-### Link: 
+### Links: 
 https://github.com/fabenp/dog_breed
+ Medium : https://medium.com/@fatma.ben.dhieb/how-to-use-python-to-identify-a-dog-breed-2438cf6ad458
 
 
